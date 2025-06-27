@@ -1,6 +1,6 @@
 # Cupcake Factory Pipeline in Go
 
-This project demonstrates a classic **pipeline pattern** implemented in Go, modeling
+This code demonstrates a classic **pipeline pattern** implemented in Go, modeling
 a cupcake factory assembly line. It illustrates how breaking down a problem into
 dependent stages—where each task depends on the completion of the previous one—can
 be efficiently managed using concurrent pipelines and Go’s goroutines and channels.
